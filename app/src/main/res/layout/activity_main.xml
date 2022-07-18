@@ -222,7 +222,7 @@
             android:layout_margin="4dp"
             android:text="@string/btn_equal"
             tools:layout_editor_absoluteX="147dp"
-            tools:layout_editor_absoluteY="397dp" />
+            tools:layout_editor_absoluteY="397dp"/>
 
     </GridLayout>
 
